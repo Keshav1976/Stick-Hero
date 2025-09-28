@@ -47,6 +47,3 @@ You can find the GitHub repository for this project [here](https://github.com/Ak
 
 Feel free to reach out to me if you have any questions or need any more help.
 
----
-
-Happy coding!
